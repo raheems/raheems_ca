@@ -41,4 +41,4 @@ I have over 10 years of experience in building predictive models utilizing stati
 
 As a subject matter expert, I provide strategic thoughts for the development, validation, and use of algorithms and statistical models in projects that involve multiple resources and tasks. 
 
-I have advanced level of proficiency in programming with [R](https://www.r-project.org/) and I consider it as my analytic *lingua franca*. [Python](https://www.python.org/) is my second language. For data management and standard statistical analysis, [SAS](https://www.sas.com) is my way to go so long I have access to it (through work).
+[R](https://www.r-project.org/) is my analytic *lingua franca* and  [Python](https://www.python.org/) comes next. [SAS](https://www.sas.com) is the way to go for data management and standard statistical analysis so long I have access to it (through work).
